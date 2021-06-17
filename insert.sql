@@ -10,7 +10,7 @@ INSERT INTO books (title,publisher_id) VALUES ('The UNIX Programming Environment
 INSERT INTO books (title,publisher_id) VALUES ('Cryptonomicon',2);
 INSERT INTO books (title,publisher_id) VALUES ('Deep Work',3);
 INSERT INTO books (title,publisher_id) VALUES ('Atomic Habits',4);
-INSERT INTO books (title,publisher_id) VALUES ('The City and the City',5);
+INSERT INTO books (title,publisher_id) VALUES ('The City and The City',5);
 INSERT INTO books (title,publisher_id) VALUES ('The Great War for Civilisation',6);
 INSERT INTO subjects (name) VALUES ('C');
 INSERT INTO subjects (name) VALUES ('UNIX');
